@@ -8,10 +8,6 @@ title = "Hold em' Right - Relationships, Values and More..."
 URL = "about"
 name = "About"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
