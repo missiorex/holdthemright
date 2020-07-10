@@ -5,7 +5,7 @@ description: This is meta description
 type: featured
 image: "/images/adventures-2.jpg"
 categories:
-- Nature
+- Children
 tags:
 - family
 - boys
