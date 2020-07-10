@@ -3,7 +3,7 @@ title: The Pentaguys
 date: 2019-07-10T08:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/pentaguys.jpg"
+image: "/images/pentaguys-1.jpg"
 categories: []
 tags:
 - pentaguys
