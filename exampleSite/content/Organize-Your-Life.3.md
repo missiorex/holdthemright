@@ -1,6 +1,6 @@
 ---
 title: Why Hold 'em right ?
-date: 2019-05-14T08:46:10+00:00
+date: 2019-05-14T08:46:10.000+00:00
 description: "#faith #family"
 type: featured
 image: "/images/cross_formation.jpeg"
@@ -9,6 +9,7 @@ categories:
 tags:
 - about
 - values
+author: Prakash
 
 ---
 Every child is a gift from heaven and every parent is a caretaker of this great gift. Ideally every father and mother is responsible to help their children to find their God given vocation.
