@@ -3,7 +3,7 @@ title: Our Lockdown Adventures
 date: 2020-06-10T08:46:10+00:00
 description: This is meta description
 type: featured
-image: "/images/adventures-1.jpg"
+image: "/images/adventures-2.jpg"
 categories:
 - Nature
 tags:
