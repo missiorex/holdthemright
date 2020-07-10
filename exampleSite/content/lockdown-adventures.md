@@ -1,5 +1,6 @@
 ---
 title: Our Lockdown Adventures
+author: John
 date: 2020-06-10T08:46:10+00:00
 description: This is meta description
 type: featured
