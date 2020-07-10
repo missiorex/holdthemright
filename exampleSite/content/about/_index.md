@@ -2,7 +2,7 @@
 title: Hold em' Right
 date: 2019-05-14T14:46:10.000+06:00
 description: Hold Them Right - Relationships, Values and More..
-image: images/logo.png
+image: images/cathopic_1534758054523601.jpg
 
 ---
 Every child is a gift from heaven and every parent is a caretaker of this great gift. Ideally every father and mother is responsible to help their children to find their God given vocation.
