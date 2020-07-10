@@ -1,5 +1,5 @@
 +++
-categories = ["Pregnancy"]
+categories = ["Publication"]
 date = 2020-07-08T18:30:00Z
 description = "A Mother's Prayer Book for Safe Delivery"
 image = "/images/booklet.png"
