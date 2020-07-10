@@ -9,4 +9,6 @@ Every child is a gift from heaven and every parent is a caretaker of this great 
 
 As we live in a fallen world, the challenges are many but God’s grace is sufficient to take us through all the tough challenges of parenthood we parents face.
 
-Hold em right is a humble initiative of Prakash & Nisha, a catholic couple from Thiruvananthapuram,Kerala,India
+We find the meaning and purpose of everything in our lives...relationships, values in Jesus. When we hold them right, we reflect the perfect image of Christ in our lives.
+
+Hold em right is a humble initiative of Prakash & Nisha, a catholic couple from Thiruvananthapuram, Kerala, India. Here we talk about our experiences, learnings, failures and success in parenting and our faith journey.
