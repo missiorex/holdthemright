@@ -1,7 +1,7 @@
 ---
 title: Why Hold 'em right ?
 date: 2019-05-14T08:46:10+00:00
-description: This is meta description
+description: "#faith #family"
 type: featured
 image: "/images/cathopic_1534758054523601.jpg"
 categories:
