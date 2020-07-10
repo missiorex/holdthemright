@@ -1,6 +1,6 @@
 ---
 title: The Pentaguys
-date: 2019-07-10T08:46:10+00:00
+date: 2019-07-10T08:46:10.000+00:00
 description: This is meta description
 type: featured
 image: "/images/pentaguys-1.jpg"
@@ -8,6 +8,7 @@ categories:
 - Boys
 tags:
 - pentaguys
+author: Nisha
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
