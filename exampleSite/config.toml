@@ -11,7 +11,7 @@ weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Nazareth, GRA F29A"
+address = "Nazareth, GRA F29A,  Gandhipuram, Sreekariyam"
 author = "Nisha Mary Joseph"
 author_image = "images/banner-img.png"
 bio = "Mother of Five Energetic  Boys"
