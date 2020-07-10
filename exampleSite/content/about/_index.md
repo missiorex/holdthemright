@@ -1,5 +1,5 @@
 ---
-title: Hold em' Right
+title: Hold 'em Right
 date: 2019-05-14T14:46:10.000+06:00
 description: Hold Them Right - Relationships, Values and More..
 image: images/cathopic_1534758054523601.jpg
